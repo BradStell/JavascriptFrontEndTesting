@@ -1,0 +1,6 @@
+C:\Users\User\Programming\FrakWorx\FrakWorx2SpecFlow\FrakWorx2SpecFlow.JavaScriptUnitTest\bin\Debug\FrakWorx2SpecFlow.JavaScriptUnitTest.dll
+C:\Users\User\Programming\FrakWorx\FrakWorx2SpecFlow\FrakWorx2SpecFlow.JavaScriptUnitTest\bin\Debug\FrakWorx2SpecFlow.JavaScriptUnitTest.pdb
+C:\Users\User\Programming\FrakWorx\FrakWorx2SpecFlow\FrakWorx2SpecFlow.JavaScriptUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Programming\FrakWorx\FrakWorx2SpecFlow\FrakWorx2SpecFlow.JavaScriptUnitTest\obj\Debug\FrakWorx2SpecFlow.JavaScriptUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\User\Programming\FrakWorx\FrakWorx2SpecFlow\FrakWorx2SpecFlow.JavaScriptUnitTest\obj\Debug\FrakWorx2SpecFlow.JavaScriptUnitTest.dll
+C:\Users\User\Programming\FrakWorx\FrakWorx2SpecFlow\FrakWorx2SpecFlow.JavaScriptUnitTest\obj\Debug\FrakWorx2SpecFlow.JavaScriptUnitTest.pdb
